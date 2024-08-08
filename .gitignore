@@ -13,6 +13,10 @@ target/
 .idea/encodings.xml
 .idea/Project.xml
 .idea/codeStyleConfig.xml
+.idea/.gitignore
+ .idea/codeStyles/Project.xml
+ .idea/codeStyles/codeStyleConfig.xml
+ .idea/
 *.iws
 *.iml
 *.ipr
