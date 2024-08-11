@@ -16,7 +16,7 @@ target/
 .idea/.gitignore
  .idea/codeStyles/Project.xml
  .idea/codeStyles/codeStyleConfig.xml
- .idea/
+ .idea
 *.iws
 *.iml
 *.ipr
